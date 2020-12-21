@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Here's a little about me:
 
 ## Langauges
@@ -39,7 +40,10 @@ Here's a little about me:
     <img alt="Expresjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
 
   <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
